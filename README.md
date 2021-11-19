@@ -17,6 +17,6 @@ A collection of collaborators with Ryanism.
 
 * <img src="./icons/discord-brands.svg" alt="Discord" height="25"/> <span class="discord-link">[Auroryanism](https://discord.gg/UUUYEPkNx3)</span>
 * <img src="./icons/coins-solid.svg" alt="State Of Cheese" height="25"/> <span class="stateofcheese-link">[State of Cheese](https://stateofcheese.ml/)</span>
-* <img src="./icons/youtube-brands.svg" alt="Youtube" height="25"/><span class="youtube-link">[Channel Four News YouTube](https://www.youtube.com/channel/UCMvOGeh3OZDLG-FljVsGM2w)</span>
-* <img src="./icons/instagram-brands.svg" alt="Instagram" height="25"/> <span class="instagram-link">[Channel Four News Instagram](https://www.instagram.com/channel_four_news/)</span>
+* <img src="./icons/youtube-brands.svg" alt="Youtube" height="25"/><span class="youtube-link"> [Channel Four News YouTube](https://www.youtube.com/channel/UCMvOGeh3OZDLG-FljVsGM2w)</span>
+* <img src="./icons/instagram-brands.svg" alt="Instagram" height="25"/> <span class="instagram-link"> [Channel Four News Instagram](https://www.instagram.com/channel_four_news/)</span>
 
