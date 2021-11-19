@@ -1,5 +1,7 @@
 # Links
 
+A collection of Social Media outlooks for Ryanism.
+
 * <img src="./icons/ryanism.svg" alt="Ryanism" height="25"/> <span class="ryanism-link">[Main Site](https://ryanism.org)</span>
 * <img src="./icons/instagram-brands.svg" alt="Instagram" height="25"/> <span class="instagram-link">[Instagram](https://www.instagram.com/the_church_of_ryanism/)</span>
 * <img src="./icons/reddit-brands.svg" alt="Reddit" height="25"/> <span class="reddit-link">[Reddit](https://www.reddit.com/r/thechurchofryanism/)</span>
@@ -9,6 +11,8 @@
 * <img src="./icons/book-solid.svg" alt="Discord" height="25"/> <span class="blog-link">[Blog](https://blog.ryanism.org/)</span>
 
 # Joint Ventures
+
+A collection of other Churches in collaboration with Ryanism.
 
 * <img src="./icons/discord-brands.svg" alt="Discord" height="25"/> <span class="discord-link">[Auroryanism](https://discord.gg/UUUYEPkNx3)</span>
 * <img src="./icons/coins-solid.svg" alt="State Of Cheese" height="25"/> <span class="stateofcheese-link">[State of Cheese](https://stateofcheese.ml/)</span>
