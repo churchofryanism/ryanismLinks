@@ -2,3 +2,4 @@
 *.md linguist-language=Markdown
 *.md linguist-documentation=false
 *.html linguist-detectable=false
+*.scss linguist-detectable=false
