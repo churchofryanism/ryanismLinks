@@ -12,7 +12,7 @@ A collection of Social Media outlooks for Ryanism.
 
 # Joint Ventures
 
-A collection of other Churches in collaboration with Ryanism.
+A collection of collaborators with Ryanism.
 
 * <img src="./icons/discord-brands.svg" alt="Discord" height="25"/> <span class="discord-link">[Auroryanism](https://discord.gg/UUUYEPkNx3)</span>
 * <img src="./icons/coins-solid.svg" alt="State Of Cheese" height="25"/> <span class="stateofcheese-link">[State of Cheese](https://stateofcheese.ml/)</span>
