@@ -1,8 +1,6 @@
-# Main Site
-* [ryanism.org](https://ryanism.org)
-
 # Links
 
+* <img src="./icons/ryanism.svg" alt="Ryanism" height="25"/> [Main Site](https://ryanism.org)
 * <img src="./icons/instagram-brands.svg" alt="Instagram" height="25"/> [Instagram](https://www.instagram.com/the_church_of_ryanism/)
 * <img src="./icons/reddit-brands.svg" alt="Reddit" height="25"/> [Reddit](https://www.reddit.com/r/thechurchofryanism/)
 * <img src="./icons/twitter-brands.svg" alt="Twitter" height="25"/> [Twitter](https://twitter.com/ChurchofRyanism)
