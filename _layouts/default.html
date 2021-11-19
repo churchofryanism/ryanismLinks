@@ -11,6 +11,17 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    
+    <!--Favicon Information-->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://ryanism.org/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://ryanism.org/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://ryanism.org/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://ryanism.org/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://ryanism.org/favicon/safari-pinned-tab.svg" color="#b83020">
+    <link rel="shortcut icon" href="https://ryanism.org/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-config" content="https://ryanism.org/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#b83020">
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -18,9 +29,6 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">Links of Ryanism</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
