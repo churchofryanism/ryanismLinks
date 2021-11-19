@@ -1,6 +1,6 @@
 # Ryanism Links
 
-* [Instagram](https://www.instagram.com/the_church_of_ryanism/)
+* :material-instagram: [Instagram](https://www.instagram.com/the_church_of_ryanism/)
 * [Reddit](https://www.reddit.com/r/thechurchofryanism/)
 * [Twitter](https://twitter.com/ChurchofRyanism)
 * [TikTok](https://www.tiktok.com/@church_of_ryanism)
