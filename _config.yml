@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 show_downloads: false
 title: Links of Ryanism
 description: A collection of Social Media outlooks for Ryanism and other Churches in collaboration with Ryanism.
-plugins:
-  - jekyll-sitemap
