@@ -3,6 +3,7 @@
 A collection of Social Media outlooks for Ryanism.
 
 * <img src="./icons/ryanism.svg" alt="Ryanism" height="25"/> <span class="ryanism-link">[Main Site](https://ryanism.org)</span>
+* <img src="./icons/coins-solid.svg" alt="Go Fund Me" height="25"/> <span class="gofundme-link">[Go Fund Me](https://gofund.me/e3c5f3b3)</span>
 * <img src="./icons/instagram-brands.svg" alt="Instagram" height="25"/> <span class="instagram-link">[Instagram](https://www.instagram.com/the_church_of_ryanism/)</span>
 * <img src="./icons/reddit-brands.svg" alt="Reddit" height="25"/> <span class="reddit-link">[Reddit](https://www.reddit.com/r/thechurchofryanism/)</span>
 * <img src="./icons/twitter-brands.svg" alt="Twitter" height="25"/> <span class="twitter-link">[Twitter](https://twitter.com/ChurchofRyanism)</span>
